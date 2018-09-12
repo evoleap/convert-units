@@ -205,5 +205,5 @@ declare module "convert-units" {
 
   function convert(value: number): Convert;
 
-  export = convert;
+  export default convert;
 }
